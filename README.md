@@ -1,3 +1,13 @@
+# About
+I started out completely from scratch in this app, choosing Javascript and react, which are not what I'm most comfortable with. whilst I had basic CRUD capabilities I had never looked into the idea of persistance that didn't include a server. whilst i researched it I came across a really good article explaining the methodology of it. whilst trying to implement the local storage functionallity I had to double back and integrate much more of the code from the tutorial into my project than I would have liked. I'm quite sickened I didn't git commit my project as i would have rolled back to before my descicsion to try implenet the persistance and just given you that. I am actually extremely disappointed in what I am handing up. I thought I would be able to implement the persistance quickly and move on to the filtering of the tasks however I ended up spending way too much time just trying to get it back functional again. 
+
+On the plus side I have learned alot more about react and js in the process. here are the websites i used as references:
+
+https://medium.com/@walkccc/build-a-todo-list-app-with-react-hooks-and-context-a7f8e9f158af
+https://www.digitalocean.com/community/tutorials/how-to-build-a-react-to-do-app-with-react-hooks#step-2-%E2%80%94-styling-your-application
+https://medium.com/wesionary-team/building-a-todo-app-using-react-redux-and-material-ui-688281d968ba
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_todo_list_beginning
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

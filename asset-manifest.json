@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dimakis/Todo-Redhat/static/css/main.9001d771.chunk.css",
+    "main.js": "/dimakis/Todo-Redhat/static/js/main.f5b30403.chunk.js",
+    "main.js.map": "/dimakis/Todo-Redhat/static/js/main.f5b30403.chunk.js.map",
+    "runtime-main.js": "/dimakis/Todo-Redhat/static/js/runtime-main.a23a45b1.js",
+    "runtime-main.js.map": "/dimakis/Todo-Redhat/static/js/runtime-main.a23a45b1.js.map",
+    "static/js/2.a803fbeb.chunk.js": "/dimakis/Todo-Redhat/static/js/2.a803fbeb.chunk.js",
+    "static/js/2.a803fbeb.chunk.js.map": "/dimakis/Todo-Redhat/static/js/2.a803fbeb.chunk.js.map",
+    "static/js/3.b22e7d6b.chunk.js": "/dimakis/Todo-Redhat/static/js/3.b22e7d6b.chunk.js",
+    "static/js/3.b22e7d6b.chunk.js.map": "/dimakis/Todo-Redhat/static/js/3.b22e7d6b.chunk.js.map",
+    "index.html": "/dimakis/Todo-Redhat/index.html",
+    "static/css/main.9001d771.chunk.css.map": "/dimakis/Todo-Redhat/static/css/main.9001d771.chunk.css.map",
+    "static/js/2.a803fbeb.chunk.js.LICENSE.txt": "/dimakis/Todo-Redhat/static/js/2.a803fbeb.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/dimakis/Todo-Redhat/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a23a45b1.js",
+    "static/js/2.a803fbeb.chunk.js",
+    "static/css/main.9001d771.chunk.css",
+    "static/js/main.f5b30403.chunk.js"
+  ]
+}

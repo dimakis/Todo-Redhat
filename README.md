@@ -1,8 +1,4 @@
 ![alt text](https://github.com/dimakis/Todo-Redhat/blob/main/public/appScreenshot.png)
-# Note to Red Hat:
-I started out completely from scratch in this app, choosing Javascript and react, which are not what I'm most comfortable with, but technologies that are very new to me that intrigue me alot. I'm working on a seperate react app and really wanted to stay in the same enviroment so that I could learn as much as possible with these technologies.
-Whilst I had basic CRUD capabilities I had never looked into the idea of persistance that didn't include a server before. So as I researched it I came across a really good article explaining the methodology of it. whilst trying to implement the local storage functionality I had to double back and integrate much more of the code from the tutorial into my project than I would have liked. I'm quite sickened I didn't periodically git commit my project as i would have rolled back to before me implementing the persistance and just given you that. It is now ingrained in me to make sure I'm keeping proper version control going forward. I am actually extremely disappointed in what I am handing up. I thought I would be able to implement the persistance quickly and move on to the filtering of the tasks however I ended up spending way too much time just trying to get it back functional again. 
-I started a different version in my most comfortable language, Java, as I didn't want to submit something from a web tutorial but it was just a cli app without full CRUD as between trying to fix this react app and answering the questions I ran out of time. 
 
 # About the App
 
